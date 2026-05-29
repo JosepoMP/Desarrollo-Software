@@ -1,61 +1,61 @@
 # 💻 Desarrollo de Software - Ejercicios y Prácticas
 
-¡Bienvenido a mi repositorio! 🚀
+¡Bienvenido a nuestro repositorio! 🚀
 
-En este espacio estaré almacenando todos los ejercicios, talleres y prácticas realizadas durante el semestre en la materia de **Desarrollo de Software**.
+En este espacio estaremos guardando todos los ejercicios, talleres y prácticas realizadas durante el semestre en la materia de **Desarrollo de Software**.
 
-Aquí se encuentran desde los primeros ejercicios en **PSeInt y pseudocódigo**, hasta temas más avanzados como estructuras repetitivas, funciones, arreglos y lógica de programación.
+Aquí iremos subiendo desde ejercicios básicos en **PSeInt y pseudocódigo**, hasta actividades de lógica, ciclos, funciones y programación básica.
 
 ---
 
-## 📚 Contenido del repositorio
+# 👨‍💻 Integrantes del Equipo
 
-### 🟢 Fundamentos
+<div align="center">
+
+| Integrantes |
+|-------------|
+| ✨ Daniela Guzman Roldan |
+| 🚀 Jose Miguel Patiño Hincapie |
+| 💻 Alejandro Peña |
+| 🔥 Pedro Salamanca |
+| ⚡ Juan Jose Molina Valencia |
+
+</div>
+
+---
+
+## 📚 Temas trabajados
+
 - Algoritmos
-- Diagramas de flujo
 - Pseudocódigo
-- Variables y tipos de datos
-- Operadores
-
-### 🔁 Estructuras de control
+- Diagramas de flujo
+- Variables
 - Condicionales
-- Ciclos `while`
-- Ciclos `for`
-- Ciclos repetitivos
-
-### 🧠 Funciones y modularidad
+- Ciclos
 - Funciones
-- Parámetros
-- Retornos
-- Modularización de código
-
-### 📦 Otros temas
-- Arreglos
-- Matrices
-- Ejercicios prácticos
-- Retos de lógica
-- Talleres y actividades de clase
+- Ejercicios de lógica
+- Talleres de clase
+- Prácticas en Python
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Herramientas utilizadas
 
 - PSeInt
 - Python
-- Git
 - GitHub
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo del repositorio
 
-El objetivo de este repositorio es llevar un seguimiento del proceso de aprendizaje durante el semestre, organizando cada ejercicio y práctica realizada en clase o de manera autónoma.
+El objetivo de este repositorio es llevar un orden de todos los ejercicios y actividades realizadas durante el semestre, además de practicar y mejorar nuestra lógica de programación.
 
 ---
 
 ## 📁 Organización
 
-Los archivos y carpetas están organizados por temas o semanas para facilitar la navegación y el estudio.
+Los archivos y carpetas estarán organizados por semanas, temas o actividades.
 
 Ejemplo:
 
@@ -63,5 +63,5 @@ Ejemplo:
 📂 Semana-01
 📂 Semana-02
 📂 Talleres
-📂 Funciones
 📂 Ciclos
+📂 Funciones
