@@ -44,6 +44,8 @@ Aquí iremos subiendo desde ejercicios básicos en **PSeInt y pseudocódigo**, h
 - PSeInt
 - Python
 - GitHub
+- Google Colab
+- VS code 
 
 ---
 
